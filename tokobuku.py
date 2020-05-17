@@ -24,7 +24,6 @@ if pilih1=="1":
     print("Selamat Datang di Aplikasi Pembelian Buku Orbit")
     print("-------------------------------------------")
 
-    ####################################################
     beli1=input("Apakah Anda Ingin Melakukan Pembelian :")
     
     if beli1 in["ya","Ya","YA"]:
